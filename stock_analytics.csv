@@ -1,0 +1,444 @@
+Name,quarter,drawdown_stress,volatility_signal,volume_signal
+Adani Enterprises Ltd.,2024Q1,Medium,Compression,Neutral
+Adani Enterprises Ltd.,2024Q2,High,Expansion,Neutral
+Adani Enterprises Ltd.,2024Q3,High,Compression,Declining Interest
+Adani Enterprises Ltd.,2024Q4,High,Expansion,Accumulation
+Adani Enterprises Ltd.,2025Q1,High,Compression,Declining Interest
+Adani Enterprises Ltd.,2025Q2,High,Compression,Neutral
+Adani Enterprises Ltd.,2025Q3,High,Compression,Neutral
+Adani Enterprises Ltd.,2025Q4,High,Compression,Accumulation
+Adani Enterprises Ltd.,2026Q1,High,Expansion,Accumulation
+Adani Ports and Special Economic Zone Ltd.,2024Q1,High,Compression,Neutral
+Adani Ports and Special Economic Zone Ltd.,2024Q2,High,Expansion,Accumulation
+Adani Ports and Special Economic Zone Ltd.,2024Q3,Medium,Compression,Declining Interest
+Adani Ports and Special Economic Zone Ltd.,2024Q4,High,Expansion,Accumulation
+Adani Ports and Special Economic Zone Ltd.,2025Q1,High,Compression,Declining Interest
+Adani Ports and Special Economic Zone Ltd.,2025Q2,High,Compression,Neutral
+Adani Ports and Special Economic Zone Ltd.,2025Q3,High,Compression,Declining Interest
+Adani Ports and Special Economic Zone Ltd.,2025Q4,Medium,Compression,Neutral
+Adani Ports and Special Economic Zone Ltd.,2026Q1,High,Expansion,Accumulation
+Apollo Hospitals Enterprise Ltd.,2024Q1,High,Expansion,Neutral
+Apollo Hospitals Enterprise Ltd.,2024Q2,Medium,Expansion,Neutral
+Apollo Hospitals Enterprise Ltd.,2024Q3,Medium,Compression,Declining Interest
+Apollo Hospitals Enterprise Ltd.,2024Q4,Medium,Expansion,Neutral
+Apollo Hospitals Enterprise Ltd.,2025Q1,High,Expansion,Neutral
+Apollo Hospitals Enterprise Ltd.,2025Q2,Medium,Compression,Neutral
+Apollo Hospitals Enterprise Ltd.,2025Q3,Medium,Expansion,Neutral
+Apollo Hospitals Enterprise Ltd.,2025Q4,Medium,Compression,Declining Interest
+Apollo Hospitals Enterprise Ltd.,2026Q1,High,Compression,Accumulation
+Asian Paints Ltd.,2024Q1,High,Compression,Neutral
+Asian Paints Ltd.,2024Q2,High,Expansion,Neutral
+Asian Paints Ltd.,2024Q3,Medium,Compression,Neutral
+Asian Paints Ltd.,2024Q4,High,Expansion,Neutral
+Asian Paints Ltd.,2025Q1,High,Expansion,Neutral
+Asian Paints Ltd.,2025Q2,High,Compression,Neutral
+Asian Paints Ltd.,2025Q3,High,Compression,Neutral
+Asian Paints Ltd.,2025Q4,High,Expansion,Neutral
+Asian Paints Ltd.,2026Q1,High,Expansion,Neutral
+Axis Bank Ltd.,2024Q1,Medium,Compression,Neutral
+Axis Bank Ltd.,2024Q2,Medium,Expansion,Neutral
+Axis Bank Ltd.,2024Q3,Medium,Compression,Declining Interest
+Axis Bank Ltd.,2024Q4,High,Expansion,Neutral
+Axis Bank Ltd.,2025Q1,High,Compression,Neutral
+Axis Bank Ltd.,2025Q2,High,Expansion,Declining Interest
+Axis Bank Ltd.,2025Q3,High,Compression,Neutral
+Axis Bank Ltd.,2025Q4,Medium,Compression,Declining Interest
+Axis Bank Ltd.,2026Q1,Medium,Expansion,Accumulation
+Bajaj Auto Ltd.,2024Q1,High,Expansion,Neutral
+Bajaj Auto Ltd.,2024Q2,Medium,Compression,Declining Interest
+Bajaj Auto Ltd.,2024Q3,Medium,Compression,Neutral
+Bajaj Auto Ltd.,2024Q4,High,Expansion,Accumulation
+Bajaj Auto Ltd.,2025Q1,High,Expansion,Declining Interest
+Bajaj Auto Ltd.,2025Q2,High,Expansion,Neutral
+Bajaj Auto Ltd.,2025Q3,High,Compression,Neutral
+Bajaj Auto Ltd.,2025Q4,High,Compression,Neutral
+Bajaj Auto Ltd.,2026Q1,High,Compression,Neutral
+Bajaj Finance Ltd.,2024Q1,High,Compression,Neutral
+Bajaj Finance Ltd.,2024Q2,High,Expansion,Neutral
+Bajaj Finance Ltd.,2024Q3,High,Compression,Neutral
+Bajaj Finance Ltd.,2024Q4,High,Compression,Neutral
+Bajaj Finance Ltd.,2025Q1,Medium,Expansion,Accumulation
+Bajaj Finance Ltd.,2025Q2,Medium,Expansion,Neutral
+Bajaj Finance Ltd.,2025Q3,Medium,Compression,Declining Interest
+Bajaj Finance Ltd.,2025Q4,Medium,Compression,Neutral
+Bajaj Finance Ltd.,2026Q1,High,Expansion,Neutral
+Bajaj Finserv Ltd.,2024Q1,Medium,Compression,Neutral
+Bajaj Finserv Ltd.,2024Q2,Medium,Expansion,Neutral
+Bajaj Finserv Ltd.,2024Q3,Medium,Compression,Accumulation
+Bajaj Finserv Ltd.,2024Q4,High,Compression,Declining Interest
+Bajaj Finserv Ltd.,2025Q1,High,Expansion,Accumulation
+Bajaj Finserv Ltd.,2025Q2,Medium,Expansion,Neutral
+Bajaj Finserv Ltd.,2025Q3,Medium,Compression,Declining Interest
+Bajaj Finserv Ltd.,2025Q4,Medium,Compression,Neutral
+Bajaj Finserv Ltd.,2026Q1,High,Compression,Neutral
+Bharat Electronics Ltd.,2024Q1,High,Compression,Neutral
+Bharat Electronics Ltd.,2024Q2,High,Expansion,Accumulation
+Bharat Electronics Ltd.,2024Q3,High,Compression,Declining Interest
+Bharat Electronics Ltd.,2024Q4,High,Compression,Declining Interest
+Bharat Electronics Ltd.,2025Q1,High,Expansion,Neutral
+Bharat Electronics Ltd.,2025Q2,High,Compression,Accumulation
+Bharat Electronics Ltd.,2025Q3,High,Compression,Declining Interest
+Bharat Electronics Ltd.,2025Q4,Medium,Compression,Neutral
+Bharat Electronics Ltd.,2026Q1,Medium,Compression,Accumulation
+Bharti Airtel Ltd.,2024Q1,High,Expansion,Neutral
+Bharti Airtel Ltd.,2024Q2,Medium,Expansion,Accumulation
+Bharti Airtel Ltd.,2024Q3,Low,Expansion,Declining Interest
+Bharti Airtel Ltd.,2024Q4,Medium,Expansion,Neutral
+Bharti Airtel Ltd.,2025Q1,Medium,Expansion,Neutral
+Bharti Airtel Ltd.,2025Q2,Low,Expansion,Accumulation
+Bharti Airtel Ltd.,2025Q3,Medium,Compression,Declining Interest
+Bharti Airtel Ltd.,2025Q4,Medium,Compression,Neutral
+Bharti Airtel Ltd.,2026Q1,High,Compression,Neutral
+Cipla Ltd.,2024Q1,High,Expansion,Neutral
+Cipla Ltd.,2024Q2,Medium,Expansion,Accumulation
+Cipla Ltd.,2024Q3,Medium,Compression,Declining Interest
+Cipla Ltd.,2024Q4,High,Expansion,Accumulation
+Cipla Ltd.,2025Q1,High,Compression,Declining Interest
+Cipla Ltd.,2025Q2,High,Expansion,Neutral
+Cipla Ltd.,2025Q3,Medium,Compression,Neutral
+Cipla Ltd.,2025Q4,Medium,Compression,Neutral
+Cipla Ltd.,2026Q1,High,Compression,Accumulation
+Coal India Ltd.,2024Q1,High,Expansion,Neutral
+Coal India Ltd.,2024Q2,Medium,Expansion,Neutral
+Coal India Ltd.,2024Q3,Medium,Expansion,Neutral
+Coal India Ltd.,2024Q4,High,Compression,Declining Interest
+Coal India Ltd.,2025Q1,High,Expansion,Neutral
+Coal India Ltd.,2025Q2,High,Compression,Neutral
+Coal India Ltd.,2025Q3,High,Compression,Declining Interest
+Coal India Ltd.,2025Q4,High,Compression,Neutral
+Coal India Ltd.,2026Q1,High,Expansion,Accumulation
+Dr. Reddy's Laboratories Ltd.,2024Q1,Medium,Expansion,Neutral
+Dr. Reddy's Laboratories Ltd.,2024Q2,Medium,Expansion,Accumulation
+Dr. Reddy's Laboratories Ltd.,2024Q3,Medium,Compression,Declining Interest
+Dr. Reddy's Laboratories Ltd.,2024Q4,High,Expansion,Neutral
+Dr. Reddy's Laboratories Ltd.,2025Q1,High,Expansion,Neutral
+Dr. Reddy's Laboratories Ltd.,2025Q2,High,Expansion,Neutral
+Dr. Reddy's Laboratories Ltd.,2025Q3,Medium,Compression,Declining Interest
+Dr. Reddy's Laboratories Ltd.,2025Q4,Medium,Compression,Neutral
+Dr. Reddy's Laboratories Ltd.,2026Q1,High,Expansion,Neutral
+Eicher Motors Ltd.,2024Q1,Medium,Expansion,Neutral
+Eicher Motors Ltd.,2024Q2,Medium,Compression,Neutral
+Eicher Motors Ltd.,2024Q3,Medium,Compression,Declining Interest
+Eicher Motors Ltd.,2024Q4,Medium,Expansion,Neutral
+Eicher Motors Ltd.,2025Q1,Medium,Expansion,Neutral
+Eicher Motors Ltd.,2025Q2,Medium,Compression,Neutral
+Eicher Motors Ltd.,2025Q3,Medium,Compression,Neutral
+Eicher Motors Ltd.,2025Q4,Low,Compression,Neutral
+Eicher Motors Ltd.,2026Q1,High,Expansion,Neutral
+Eternal Ltd.,2024Q1,High,Expansion,Neutral
+Eternal Ltd.,2024Q2,Medium,Compression,Declining Interest
+Eternal Ltd.,2024Q3,Medium,Expansion,Accumulation
+Eternal Ltd.,2024Q4,High,Compression,Neutral
+Eternal Ltd.,2025Q1,High,Expansion,Accumulation
+Eternal Ltd.,2025Q2,High,Compression,Neutral
+Eternal Ltd.,2025Q3,High,Compression,Declining Interest
+Eternal Ltd.,2025Q4,High,Compression,Declining Interest
+Eternal Ltd.,2026Q1,High,Expansion,Accumulation
+Grasim Industries Ltd.,2024Q1,Medium,Expansion,Neutral
+Grasim Industries Ltd.,2024Q2,Medium,Expansion,Neutral
+Grasim Industries Ltd.,2024Q3,Medium,Expansion,Neutral
+Grasim Industries Ltd.,2024Q4,Medium,Compression,Declining Interest
+Grasim Industries Ltd.,2025Q1,High,Expansion,Neutral
+Grasim Industries Ltd.,2025Q2,Medium,Expansion,Neutral
+Grasim Industries Ltd.,2025Q3,Medium,Compression,Neutral
+Grasim Industries Ltd.,2025Q4,Medium,Compression,Neutral
+Grasim Industries Ltd.,2026Q1,Medium,Compression,Accumulation
+HCL Technologies Ltd.,2024Q1,High,Expansion,Neutral
+HCL Technologies Ltd.,2024Q2,High,Compression,Accumulation
+HCL Technologies Ltd.,2024Q3,Medium,Compression,Declining Interest
+HCL Technologies Ltd.,2024Q4,Medium,Compression,Neutral
+HCL Technologies Ltd.,2025Q1,High,Expansion,Accumulation
+HCL Technologies Ltd.,2025Q2,High,Expansion,Neutral
+HCL Technologies Ltd.,2025Q3,High,Compression,Neutral
+HCL Technologies Ltd.,2025Q4,High,Compression,Declining Interest
+HCL Technologies Ltd.,2026Q1,High,Expansion,Accumulation
+HDFC Bank Ltd.,2024Q1,High,Expansion,Neutral
+HDFC Bank Ltd.,2024Q2,Medium,Expansion,Declining Interest
+HDFC Bank Ltd.,2024Q3,Medium,Expansion,Neutral
+HDFC Bank Ltd.,2024Q4,Medium,Expansion,Declining Interest
+HDFC Bank Ltd.,2025Q1,Medium,Compression,Declining Interest
+HDFC Bank Ltd.,2025Q2,Medium,Expansion,Neutral
+HDFC Bank Ltd.,2025Q3,Medium,Compression,Declining Interest
+HDFC Bank Ltd.,2025Q4,Low,Compression,Neutral
+HDFC Bank Ltd.,2026Q1,High,Compression,Accumulation
+HDFC Life Insurance Company Ltd.,2024Q1,Medium,Expansion,Neutral
+HDFC Life Insurance Company Ltd.,2024Q2,High,Expansion,Accumulation
+HDFC Life Insurance Company Ltd.,2024Q3,Medium,Expansion,Declining Interest
+HDFC Life Insurance Company Ltd.,2024Q4,High,Compression,Declining Interest
+HDFC Life Insurance Company Ltd.,2025Q1,High,Expansion,Neutral
+HDFC Life Insurance Company Ltd.,2025Q2,Medium,Expansion,Neutral
+HDFC Life Insurance Company Ltd.,2025Q3,Medium,Compression,Neutral
+HDFC Life Insurance Company Ltd.,2025Q4,Medium,Compression,Neutral
+HDFC Life Insurance Company Ltd.,2026Q1,High,Compression,Neutral
+Hindalco Industries Ltd.,2024Q1,High,Expansion,Neutral
+Hindalco Industries Ltd.,2024Q2,Medium,Expansion,Accumulation
+Hindalco Industries Ltd.,2024Q3,Medium,Compression,Declining Interest
+Hindalco Industries Ltd.,2024Q4,High,Expansion,Neutral
+Hindalco Industries Ltd.,2025Q1,High,Compression,Neutral
+Hindalco Industries Ltd.,2025Q2,High,Expansion,Neutral
+Hindalco Industries Ltd.,2025Q3,Medium,Compression,Neutral
+Hindalco Industries Ltd.,2025Q4,Medium,Compression,Accumulation
+Hindalco Industries Ltd.,2026Q1,Medium,Expansion,Neutral
+Hindustan Unilever Ltd.,2024Q1,High,Expansion,Neutral
+Hindustan Unilever Ltd.,2024Q2,High,Expansion,Accumulation
+Hindustan Unilever Ltd.,2024Q3,Medium,Compression,Declining Interest
+Hindustan Unilever Ltd.,2024Q4,High,Expansion,Neutral
+Hindustan Unilever Ltd.,2025Q1,High,Compression,Neutral
+Hindustan Unilever Ltd.,2025Q2,High,Compression,Neutral
+Hindustan Unilever Ltd.,2025Q3,High,Expansion,Neutral
+Hindustan Unilever Ltd.,2025Q4,High,Compression,Neutral
+Hindustan Unilever Ltd.,2026Q1,High,Expansion,Neutral
+ICICI Bank Ltd.,2024Q1,Medium,Expansion,Neutral
+ICICI Bank Ltd.,2024Q2,Medium,Expansion,Neutral
+ICICI Bank Ltd.,2024Q3,Medium,Compression,Neutral
+ICICI Bank Ltd.,2024Q4,Medium,Compression,Neutral
+ICICI Bank Ltd.,2025Q1,Medium,Compression,Neutral
+ICICI Bank Ltd.,2025Q2,Medium,Expansion,Neutral
+ICICI Bank Ltd.,2025Q3,Medium,Compression,Neutral
+ICICI Bank Ltd.,2025Q4,Medium,Compression,Accumulation
+ICICI Bank Ltd.,2026Q1,High,Expansion,Accumulation
+ITC Ltd.,2024Q1,Medium,Expansion,Neutral
+ITC Ltd.,2024Q2,Medium,Compression,Neutral
+ITC Ltd.,2024Q3,Medium,Expansion,Neutral
+ITC Ltd.,2024Q4,Medium,Compression,Neutral
+ITC Ltd.,2025Q1,High,Expansion,Accumulation
+ITC Ltd.,2025Q2,High,Compression,Accumulation
+ITC Ltd.,2025Q3,High,Compression,Declining Interest
+ITC Ltd.,2025Q4,High,Compression,Neutral
+ITC Ltd.,2026Q1,High,Expansion,Accumulation
+Infosys Ltd.,2024Q1,Medium,Expansion,Neutral
+Infosys Ltd.,2024Q2,High,Compression,Accumulation
+Infosys Ltd.,2024Q3,Medium,Compression,Declining Interest
+Infosys Ltd.,2024Q4,Medium,Compression,Declining Interest
+Infosys Ltd.,2025Q1,High,Expansion,Accumulation
+Infosys Ltd.,2025Q2,High,Expansion,Accumulation
+Infosys Ltd.,2025Q3,High,Compression,Neutral
+Infosys Ltd.,2025Q4,High,Compression,Neutral
+Infosys Ltd.,2026Q1,High,Expansion,Accumulation
+InterGlobe Aviation Ltd.,2024Q1,High,Compression,Neutral
+InterGlobe Aviation Ltd.,2024Q2,Medium,Expansion,Neutral
+InterGlobe Aviation Ltd.,2024Q3,Medium,Compression,Neutral
+InterGlobe Aviation Ltd.,2024Q4,High,Expansion,Neutral
+InterGlobe Aviation Ltd.,2025Q1,High,Compression,Neutral
+InterGlobe Aviation Ltd.,2025Q2,Medium,Expansion,Accumulation
+InterGlobe Aviation Ltd.,2025Q3,Medium,Compression,Declining Interest
+InterGlobe Aviation Ltd.,2025Q4,High,Compression,Accumulation
+InterGlobe Aviation Ltd.,2026Q1,High,Expansion,Declining Interest
+JSW Steel Ltd.,2024Q1,Medium,Compression,Neutral
+JSW Steel Ltd.,2024Q2,Medium,Expansion,Accumulation
+JSW Steel Ltd.,2024Q3,Medium,Expansion,Declining Interest
+JSW Steel Ltd.,2024Q4,Medium,Compression,Neutral
+JSW Steel Ltd.,2025Q1,Medium,Compression,Declining Interest
+JSW Steel Ltd.,2025Q2,Medium,Expansion,Neutral
+JSW Steel Ltd.,2025Q3,Medium,Compression,Declining Interest
+JSW Steel Ltd.,2025Q4,Medium,Compression,Neutral
+JSW Steel Ltd.,2026Q1,Medium,Expansion,Neutral
+Jio Financial Services Ltd.,2024Q1,High,Expansion,Neutral
+Jio Financial Services Ltd.,2024Q2,Medium,Expansion,Declining Interest
+Jio Financial Services Ltd.,2024Q3,High,Compression,Declining Interest
+Jio Financial Services Ltd.,2024Q4,High,Compression,Declining Interest
+Jio Financial Services Ltd.,2025Q1,High,Expansion,Accumulation
+Jio Financial Services Ltd.,2025Q2,High,Expansion,Declining Interest
+Jio Financial Services Ltd.,2025Q3,High,Compression,Declining Interest
+Jio Financial Services Ltd.,2025Q4,High,Compression,Declining Interest
+Jio Financial Services Ltd.,2026Q1,High,Compression,Accumulation
+Kotak Mahindra Bank Ltd.,2024Q1,Medium,Compression,Neutral
+Kotak Mahindra Bank Ltd.,2024Q2,High,Expansion,Accumulation
+Kotak Mahindra Bank Ltd.,2024Q3,Medium,Compression,Declining Interest
+Kotak Mahindra Bank Ltd.,2024Q4,Medium,Compression,Neutral
+Kotak Mahindra Bank Ltd.,2025Q1,Medium,Expansion,Neutral
+Kotak Mahindra Bank Ltd.,2025Q2,Medium,Compression,Neutral
+Kotak Mahindra Bank Ltd.,2025Q3,Medium,Compression,Neutral
+Kotak Mahindra Bank Ltd.,2025Q4,Medium,Compression,Neutral
+Kotak Mahindra Bank Ltd.,2026Q1,High,Compression,Neutral
+Larsen & Toubro Ltd.,2024Q1,Medium,Expansion,Neutral
+Larsen & Toubro Ltd.,2024Q2,Medium,Expansion,Accumulation
+Larsen & Toubro Ltd.,2024Q3,Medium,Compression,Declining Interest
+Larsen & Toubro Ltd.,2024Q4,Medium,Expansion,Neutral
+Larsen & Toubro Ltd.,2025Q1,High,Expansion,Neutral
+Larsen & Toubro Ltd.,2025Q2,High,Expansion,Neutral
+Larsen & Toubro Ltd.,2025Q3,Medium,Compression,Declining Interest
+Larsen & Toubro Ltd.,2025Q4,Medium,Compression,Neutral
+Larsen & Toubro Ltd.,2026Q1,High,Expansion,Accumulation
+Mahindra & Mahindra Ltd.,2024Q1,High,Expansion,Neutral
+Mahindra & Mahindra Ltd.,2024Q2,Low,Expansion,Neutral
+Mahindra & Mahindra Ltd.,2024Q3,Medium,Expansion,Neutral
+Mahindra & Mahindra Ltd.,2024Q4,High,Expansion,Neutral
+Mahindra & Mahindra Ltd.,2025Q1,High,Expansion,Neutral
+Mahindra & Mahindra Ltd.,2025Q2,High,Compression,Neutral
+Mahindra & Mahindra Ltd.,2025Q3,Medium,Compression,Neutral
+Mahindra & Mahindra Ltd.,2025Q4,Medium,Compression,Neutral
+Mahindra & Mahindra Ltd.,2026Q1,High,Compression,Accumulation
+Maruti Suzuki India Ltd.,2024Q1,High,Expansion,Neutral
+Maruti Suzuki India Ltd.,2024Q2,Medium,Expansion,Neutral
+Maruti Suzuki India Ltd.,2024Q3,Medium,Expansion,Neutral
+Maruti Suzuki India Ltd.,2024Q4,High,Compression,Neutral
+Maruti Suzuki India Ltd.,2025Q1,High,Expansion,Neutral
+Maruti Suzuki India Ltd.,2025Q2,High,Compression,Neutral
+Maruti Suzuki India Ltd.,2025Q3,Medium,Expansion,Neutral
+Maruti Suzuki India Ltd.,2025Q4,Medium,Compression,Declining Interest
+Maruti Suzuki India Ltd.,2026Q1,High,Expansion,Accumulation
+Max Healthcare Institute Ltd.,2024Q1,High,Expansion,Neutral
+Max Healthcare Institute Ltd.,2024Q2,High,Expansion,Declining Interest
+Max Healthcare Institute Ltd.,2024Q3,Medium,Compression,Neutral
+Max Healthcare Institute Ltd.,2024Q4,High,Compression,Neutral
+Max Healthcare Institute Ltd.,2025Q1,High,Expansion,Neutral
+Max Healthcare Institute Ltd.,2025Q2,Medium,Expansion,Neutral
+Max Healthcare Institute Ltd.,2025Q3,Medium,Compression,Accumulation
+Max Healthcare Institute Ltd.,2025Q4,High,Compression,Neutral
+Max Healthcare Institute Ltd.,2026Q1,High,Compression,Neutral
+NTPC Ltd.,2024Q1,High,Expansion,Neutral
+NTPC Ltd.,2024Q2,High,Expansion,Neutral
+NTPC Ltd.,2024Q3,Medium,Compression,Neutral
+NTPC Ltd.,2024Q4,High,Compression,Declining Interest
+NTPC Ltd.,2025Q1,High,Expansion,Neutral
+NTPC Ltd.,2025Q2,High,Compression,Neutral
+NTPC Ltd.,2025Q3,High,Compression,Declining Interest
+NTPC Ltd.,2025Q4,High,Compression,Neutral
+NTPC Ltd.,2026Q1,High,Expansion,Accumulation
+Nestle India Ltd.,2024Q1,Medium,Expansion,Neutral
+Nestle India Ltd.,2024Q2,Medium,Expansion,Neutral
+Nestle India Ltd.,2024Q3,Medium,Compression,Neutral
+Nestle India Ltd.,2024Q4,High,Compression,Neutral
+Nestle India Ltd.,2025Q1,High,Expansion,Declining Interest
+Nestle India Ltd.,2025Q2,High,Compression,Accumulation
+Nestle India Ltd.,2025Q3,High,Expansion,Declining Interest
+Nestle India Ltd.,2025Q4,Medium,Compression,Declining Interest
+Nestle India Ltd.,2026Q1,Medium,Compression,Neutral
+Oil & Natural Gas Corporation Ltd.,2024Q1,High,Expansion,Neutral
+Oil & Natural Gas Corporation Ltd.,2024Q2,High,Expansion,Neutral
+Oil & Natural Gas Corporation Ltd.,2024Q3,High,Expansion,Accumulation
+Oil & Natural Gas Corporation Ltd.,2024Q4,High,Compression,Declining Interest
+Oil & Natural Gas Corporation Ltd.,2025Q1,High,Expansion,Neutral
+Oil & Natural Gas Corporation Ltd.,2025Q2,High,Compression,Neutral
+Oil & Natural Gas Corporation Ltd.,2025Q3,High,Compression,Declining Interest
+Oil & Natural Gas Corporation Ltd.,2025Q4,High,Compression,Neutral
+Oil & Natural Gas Corporation Ltd.,2026Q1,High,Expansion,Accumulation
+Power Grid Corporation of India Ltd.,2024Q1,High,Expansion,Neutral
+Power Grid Corporation of India Ltd.,2024Q2,Medium,Expansion,Neutral
+Power Grid Corporation of India Ltd.,2024Q3,Medium,Compression,Declining Interest
+Power Grid Corporation of India Ltd.,2024Q4,Medium,Compression,Neutral
+Power Grid Corporation of India Ltd.,2025Q1,High,Expansion,Neutral
+Power Grid Corporation of India Ltd.,2025Q2,High,Expansion,Neutral
+Power Grid Corporation of India Ltd.,2025Q3,High,Compression,Declining Interest
+Power Grid Corporation of India Ltd.,2025Q4,High,Compression,Neutral
+Power Grid Corporation of India Ltd.,2026Q1,High,Expansion,Accumulation
+Reliance Industries Ltd.,2024Q1,Medium,Expansion,Neutral
+Reliance Industries Ltd.,2024Q2,Medium,Expansion,Neutral
+Reliance Industries Ltd.,2024Q3,Medium,Compression,Neutral
+Reliance Industries Ltd.,2024Q4,High,Compression,Accumulation
+Reliance Industries Ltd.,2025Q1,High,Compression,Declining Interest
+Reliance Industries Ltd.,2025Q2,High,Expansion,Neutral
+Reliance Industries Ltd.,2025Q3,Medium,Compression,Neutral
+Reliance Industries Ltd.,2025Q4,Medium,Compression,Neutral
+Reliance Industries Ltd.,2026Q1,High,Expansion,Accumulation
+SBI Life Insurance Company Ltd.,2024Q1,Medium,Expansion,Neutral
+SBI Life Insurance Company Ltd.,2024Q2,Medium,Expansion,Neutral
+SBI Life Insurance Company Ltd.,2024Q3,Medium,Expansion,Neutral
+SBI Life Insurance Company Ltd.,2024Q4,High,Expansion,Accumulation
+SBI Life Insurance Company Ltd.,2025Q1,High,Expansion,Declining Interest
+SBI Life Insurance Company Ltd.,2025Q2,High,Expansion,Neutral
+SBI Life Insurance Company Ltd.,2025Q3,Medium,Compression,Declining Interest
+SBI Life Insurance Company Ltd.,2025Q4,Medium,Compression,Neutral
+SBI Life Insurance Company Ltd.,2026Q1,Medium,Compression,Neutral
+Shriram Finance Ltd.,2024Q1,High,Compression,Neutral
+Shriram Finance Ltd.,2024Q2,Medium,Expansion,Neutral
+Shriram Finance Ltd.,2024Q3,Medium,Compression,Neutral
+Shriram Finance Ltd.,2024Q4,High,Compression,Neutral
+Shriram Finance Ltd.,2025Q1,High,Expansion,Neutral
+Shriram Finance Ltd.,2025Q2,High,Expansion,Neutral
+Shriram Finance Ltd.,2025Q3,High,Compression,Declining Interest
+Shriram Finance Ltd.,2025Q4,Medium,Compression,Accumulation
+Shriram Finance Ltd.,2026Q1,Medium,Expansion,Declining Interest
+State Bank of India,2024Q1,High,Expansion,Neutral
+State Bank of India,2024Q2,Medium,Expansion,Neutral
+State Bank of India,2024Q3,High,Compression,Declining Interest
+State Bank of India,2024Q4,Medium,Expansion,Neutral
+State Bank of India,2025Q1,High,Compression,Neutral
+State Bank of India,2025Q2,High,Compression,Neutral
+State Bank of India,2025Q3,Medium,Compression,Declining Interest
+State Bank of India,2025Q4,Low,Compression,Neutral
+State Bank of India,2026Q1,Medium,Expansion,Accumulation
+Sun Pharmaceutical Industries Ltd.,2024Q1,High,Expansion,Neutral
+Sun Pharmaceutical Industries Ltd.,2024Q2,Medium,Expansion,Neutral
+Sun Pharmaceutical Industries Ltd.,2024Q3,Medium,Compression,Declining Interest
+Sun Pharmaceutical Industries Ltd.,2024Q4,Medium,Compression,Neutral
+Sun Pharmaceutical Industries Ltd.,2025Q1,High,Expansion,Neutral
+Sun Pharmaceutical Industries Ltd.,2025Q2,Medium,Expansion,Accumulation
+Sun Pharmaceutical Industries Ltd.,2025Q3,High,Compression,Neutral
+Sun Pharmaceutical Industries Ltd.,2025Q4,High,Compression,Neutral
+Sun Pharmaceutical Industries Ltd.,2026Q1,High,Expansion,Accumulation
+Tata Consultancy Services Ltd.,2024Q1,Medium,Expansion,Neutral
+Tata Consultancy Services Ltd.,2024Q2,Medium,Compression,Neutral
+Tata Consultancy Services Ltd.,2024Q3,Medium,Expansion,Neutral
+Tata Consultancy Services Ltd.,2024Q4,Medium,Compression,Neutral
+Tata Consultancy Services Ltd.,2025Q1,High,Expansion,Neutral
+Tata Consultancy Services Ltd.,2025Q2,High,Expansion,Neutral
+Tata Consultancy Services Ltd.,2025Q3,High,Compression,Neutral
+Tata Consultancy Services Ltd.,2025Q4,High,Compression,Neutral
+Tata Consultancy Services Ltd.,2026Q1,High,Expansion,Accumulation
+Tata Consumer Products Ltd.,2024Q1,Medium,Expansion,Neutral
+Tata Consumer Products Ltd.,2024Q2,High,Expansion,Neutral
+Tata Consumer Products Ltd.,2024Q3,Medium,Compression,Neutral
+Tata Consumer Products Ltd.,2024Q4,High,Expansion,Neutral
+Tata Consumer Products Ltd.,2025Q1,High,Expansion,Neutral
+Tata Consumer Products Ltd.,2025Q2,High,Expansion,Neutral
+Tata Consumer Products Ltd.,2025Q3,High,Compression,Declining Interest
+Tata Consumer Products Ltd.,2025Q4,Medium,Compression,Neutral
+Tata Consumer Products Ltd.,2026Q1,Medium,Expansion,Neutral
+Tata Motors Passenger Vehicles Ltd.,2025Q4,High,Compression,Neutral
+Tata Motors Passenger Vehicles Ltd.,2026Q1,High,Expansion,Neutral
+Tata Steel Ltd.,2024Q1,High,Expansion,Neutral
+Tata Steel Ltd.,2024Q2,Medium,Expansion,Neutral
+Tata Steel Ltd.,2024Q3,High,Compression,Neutral
+Tata Steel Ltd.,2024Q4,High,Compression,Neutral
+Tata Steel Ltd.,2025Q1,High,Expansion,Neutral
+Tata Steel Ltd.,2025Q2,High,Expansion,Neutral
+Tata Steel Ltd.,2025Q3,Medium,Compression,Declining Interest
+Tata Steel Ltd.,2025Q4,Medium,Compression,Neutral
+Tata Steel Ltd.,2026Q1,Medium,Expansion,Accumulation
+Tech Mahindra Ltd.,2024Q1,Medium,Expansion,Neutral
+Tech Mahindra Ltd.,2024Q2,High,Expansion,Neutral
+Tech Mahindra Ltd.,2024Q3,Medium,Compression,Neutral
+Tech Mahindra Ltd.,2024Q4,Medium,Compression,Neutral
+Tech Mahindra Ltd.,2025Q1,High,Expansion,Neutral
+Tech Mahindra Ltd.,2025Q2,High,Expansion,Neutral
+Tech Mahindra Ltd.,2025Q3,High,Compression,Neutral
+Tech Mahindra Ltd.,2025Q4,High,Compression,Neutral
+Tech Mahindra Ltd.,2026Q1,High,Expansion,Accumulation
+Titan Company Ltd.,2024Q1,Medium,Compression,Neutral
+Titan Company Ltd.,2024Q2,High,Expansion,Accumulation
+Titan Company Ltd.,2024Q3,High,Expansion,Neutral
+Titan Company Ltd.,2024Q4,High,Compression,Declining Interest
+Titan Company Ltd.,2025Q1,High,Expansion,Neutral
+Titan Company Ltd.,2025Q2,High,Compression,Neutral
+Titan Company Ltd.,2025Q3,Medium,Compression,Neutral
+Titan Company Ltd.,2025Q4,Medium,Compression,Neutral
+Titan Company Ltd.,2026Q1,Medium,Compression,Neutral
+Trent Ltd.,2024Q1,High,Expansion,Neutral
+Trent Ltd.,2024Q2,Medium,Compression,Neutral
+Trent Ltd.,2024Q3,Medium,Expansion,Neutral
+Trent Ltd.,2024Q4,High,Compression,Neutral
+Trent Ltd.,2025Q1,High,Expansion,Accumulation
+Trent Ltd.,2025Q2,High,Expansion,Neutral
+Trent Ltd.,2025Q3,High,Compression,Declining Interest
+Trent Ltd.,2025Q4,High,Compression,Neutral
+Trent Ltd.,2026Q1,High,Compression,Neutral
+UltraTech Cement Ltd.,2024Q1,Medium,Compression,Neutral
+UltraTech Cement Ltd.,2024Q2,Medium,Expansion,Accumulation
+UltraTech Cement Ltd.,2024Q3,Medium,Compression,Declining Interest
+UltraTech Cement Ltd.,2024Q4,Medium,Expansion,Neutral
+UltraTech Cement Ltd.,2025Q1,High,Expansion,Accumulation
+UltraTech Cement Ltd.,2025Q2,Medium,Compression,Neutral
+UltraTech Cement Ltd.,2025Q3,Medium,Compression,Neutral
+UltraTech Cement Ltd.,2025Q4,Medium,Compression,Neutral
+UltraTech Cement Ltd.,2026Q1,High,Expansion,Accumulation
+Wipro Ltd.,2024Q1,High,Expansion,Neutral
+Wipro Ltd.,2024Q2,High,Compression,Neutral
+Wipro Ltd.,2024Q3,High,Expansion,Neutral
+Wipro Ltd.,2024Q4,Medium,Compression,Neutral
+Wipro Ltd.,2025Q1,High,Expansion,Neutral
+Wipro Ltd.,2025Q2,High,Expansion,Neutral
+Wipro Ltd.,2025Q3,High,Compression,Declining Interest
+Wipro Ltd.,2025Q4,High,Compression,Neutral
+Wipro Ltd.,2026Q1,High,Expansion,Accumulation
