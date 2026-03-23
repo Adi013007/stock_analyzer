@@ -1,7 +1,7 @@
 import pandas as p
 import yfinance as yf
-tickers = p.read_csv("D:/Stock Analyzer/updated_stocks.csv")["Symbol"].tolist()
-names = p.read_csv("D:/Stock Analyzer/updated_stocks.csv")["Company Name"].tolist()
+tickers = p.read_csv("updated_stocks.csv")["Symbol"].tolist()
+names = p.read_csv("updated_stocks.csv")["Company Name"].tolist()
 company_ticker_mapping = dict(zip(tickers, names))
 corporate_actions = p.DataFrame()
 for ticker in tickers:

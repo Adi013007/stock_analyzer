@@ -1,7 +1,7 @@
 import pandas as p
 import yfinance as yf
 df = p.read_csv(
-    "D:/Stock Analyzer/updated_stocks.csv"
+    "updated_stocks.csv"
 )
 all_data = {}
 tickers = df["Symbol"].tolist()

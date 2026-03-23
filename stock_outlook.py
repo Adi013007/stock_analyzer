@@ -8,12 +8,12 @@ load_dotenv()
 api_key = os.getenv("API_KEY")
 st.title("Stock Outlook")
 st.write("This page provides an outlook on Nifty50 stocks")
-updated_stocks = p.read_csv("D:/Stock Analyzer/updated_stocks.csv")
+updated_stocks = p.read_csv("updated_stocks.csv")
 stock_list = updated_stocks["Company Name"].tolist()
 selected_stock = st.selectbox("Select a stock to view its outlook:", stock_list)
-stock_news = p.read_csv("D:/Stock Analyzer/stock_news.csv")
-corpotate_actions = p.read_csv("D:/Stock Analyzer/corporate_actions.csv")
-stock_analysis = p.read_csv("D:/Stock Analyzer/stock_analytics.csv")
+stock_news = p.read_csv("stock_news.csv")
+corpotate_actions = p.read_csv("corporate_actions.csv")
+stock_analysis = p.read_csv("stock_analytics.csv")
 signal_json = {"Signals":stock_analysis[stock_analysis["Name"] == selected_stock].to_dict()}
 news_json = {"News":stock_news[stock_news["name"] == selected_stock].to_dict()}
 actions_json = {"Actions":corpotate_actions[corpotate_actions["name"] == selected_stock].iloc[0].to_dict()}
